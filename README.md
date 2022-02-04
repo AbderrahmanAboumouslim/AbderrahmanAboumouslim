@@ -12,7 +12,7 @@
   <tbody>
     <tr valign="top">
       <td width="25%" align="center">
-        <span>𝗛𝗧𝗠𝗟𝟱</span><br><br><br>
+        <span>React</span><br><br><br>
         <img height="64px" src="https://img.icons8.com/ultraviolet/2x/react.png">
       </td>
       <td width="25%" align="center">
