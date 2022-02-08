@@ -54,9 +54,3 @@
     </tr>
   </tbody>
 </table>
-
-## Watch my contributions being eaten by a snake🐍
-
-<p align="center">
-  <img src="https://github.com/AbderrahmanAboumouslim/AbderrahmanAboumouslim/blob/output/github-contribution-grid-snake.svg" alt="snake"></center>
-</p>
