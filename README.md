@@ -41,6 +41,10 @@
         <span>𝗩𝗦 𝗖𝗼𝗱𝗲</span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
+      <td width="25%" align="center">
+        <span>Styled Components</span><br><br><br>
+        <img height="64px" src="https://cdn.svgporn.com/logos/styled-components.svg">
+      </td>
     </tr>
     <tr valign="top">
       <td width="25%" align="center">
